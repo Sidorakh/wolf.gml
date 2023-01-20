@@ -1,0 +1,43 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_door_ew",
+  "spriteId": {
+    "name": "spr_door_ew",
+    "path": "sprites/spr_door_ew/spr_door_ew.yy",
+  },
+  "spriteMaskId": {
+    "name": "spr_door_ew",
+    "path": "sprites/spr_door_ew/spr_door_ew.yy",
+  },
+  "visible": true,
+  "solid": false,
+  "persistent": false,
+  "physicsObject": false,
+  "managed": true,
+  "parentObjectId": {
+    "name": "obj_door",
+    "path": "objects/obj_door/obj_door.yy",
+  },
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "World",
+    "path": "folders/Objects/World.yy",
+  },
+}
